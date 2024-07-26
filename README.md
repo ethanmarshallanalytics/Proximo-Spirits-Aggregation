@@ -1,1 +1,1 @@
-# Proximo Spirits Technical Assessments 
+# Proximo Spirits Technical Assessment
